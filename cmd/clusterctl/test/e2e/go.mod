@@ -6,9 +6,9 @@ require (
 	github.com/onsi/ginkgo v1.12.0
 	github.com/onsi/gomega v1.9.0
 	github.com/pkg/errors v0.9.1
-	k8s.io/api v0.17.2
-	k8s.io/apimachinery v0.17.2
-	k8s.io/client-go v0.17.2
+	k8s.io/api v0.18.0
+	k8s.io/apimachinery v0.18.0
+	k8s.io/client-go v0.18.0
 	sigs.k8s.io/cluster-api v0.3.0-rc.2.0.20200302175844-3011d8c2580c
 	sigs.k8s.io/cluster-api/test/infrastructure/docker v0.3.0-rc.2.0.20200302175844-3011d8c2580c
 	sigs.k8s.io/controller-runtime v0.5.2
